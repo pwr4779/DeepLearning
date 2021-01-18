@@ -3,12 +3,12 @@
 - [linear Regression & KNN](https://github.com/pwr4779/DeepLearning/blob/master/linear%20Regression%20%26%20KNN%20GDP%20model.ipynb)
 ### Undercomplete
 - [Undercomplete](https://github.com/pwr4779/DeepLearning/blob/master/AutoEncoder/Undercomplete.ipynb)
-##AutoEncoder
+## AutoEncoder
 ### Stacked AutoEncoder
 - [Stacked AutoEncoder](https://github.com/pwr4779/DeepLearning/blob/master/AutoEncoder/Stacked%20AutoEncoder.ipynb)
-##GAN
+## GAN
 ### DCGAN
 - [DCGAN](https://github.com/pwr4779/DeepLearning/blob/master/GAN/DCGAN/DCGAN.ipynb)
 
-###tf.GradientTape(), Tensorboard 사용 MNIST
-- [GradientTape]
+### tf.GradientTape(), Tensorboard 사용 MNIST
+- [GradientTape](https://github.com/pwr4779/DeepLearning/blob/master/Tensorflow%20Advanced%20Tutorials/MNIST.ipynb)
