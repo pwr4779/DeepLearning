@@ -13,7 +13,7 @@ tensorflow implementation of Variational AutoEncoder from the paper [Variational
 <table border="0">
 <tr>
     <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/VAE/VAE.png"/>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/VAE/vae.png"/>
     </td>
 </tr>
 </table>
