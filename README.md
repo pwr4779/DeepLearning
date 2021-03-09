@@ -35,13 +35,13 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
 </tr>
 <tr>
     <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denosing-AutoEncoder/content/image.jpg" width="100%"/>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denoising-AutoEncoder/content/image.jpg" width="100%"/>
     </td>
     <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denosing-AutoEncoder/content/noisy.jpg" width="100%"/>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denoising-AutoEncoder/content/noisy.jpg" width="100%"/>
     </td>
     <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denosing-AutoEncoder/content/test.jpg" width="100%"/>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denoising-AutoEncoder/content/test.jpg" width="100%"/>
     </td>
 </tr>
 </table>
