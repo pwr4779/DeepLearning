@@ -24,6 +24,28 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
 ## Stacked AutoEncoder
 - [Stacked AutoEncoder](https://github.com/pwr4779/DeepLearning/blob/master/AutoEncoder/Stacked%20AutoEncoder.ipynb)
 
+## Emnist Using Denoising AutoEncoder
+- [Dataset](https://www.kaggle.com/crawford/emnist)
+### result
+<table border="0">
+<tr>
+    <th>original image</th>
+    <th>Denoising image(Input)</th>
+    <th>Deonising AutoEncoder(Output)</th>
+</tr>
+<tr>
+    <td>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denosing-AutoEncoder/content/image.jpg"/>
+    </td>
+    <td>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denosing-AutoEncoder/content/noisy.jpg"/>
+    </td>
+    <td>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denosing-AutoEncoder/content/test.jpg"/>
+    </td>
+</tr>
+</table>
+
 ## DCGAN
 - [DCGAN](https://github.com/pwr4779/DeepLearning/blob/master/GAN/DCGAN/DCGAN.ipynb)
 
