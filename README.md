@@ -6,8 +6,8 @@
 * `TensorFlow >= 2.4.1`
 
 ## Variational AutoEncoder
-- [Variational AutoEncoder](https://github.com/pwr4779/DeepLearning/blob/master/VAE/variationalAutoencoder.py)
-tensorflow implementation of Variational AutoEncoder from the paper [Variational AutoEncoder](https://arxiv.org/pdf/1606.05908.pdf).
+- [Variational AutoEncoder](https://github.com/pwr4779/DeepLearning/blob/master/VAE/variationalAutoencoder.py)  
+tensorflow implementation of Variational AutoEncoder from the [paper](https://arxiv.org/pdf/1606.05908.pdf).
 
 ### result
 <table border="0">
