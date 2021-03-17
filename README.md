@@ -44,7 +44,7 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
     <img src="https://github.com/pwr4779/DeepLearning/blob/master/EMNIST-using-Denoising-AutoEncoder/content/test.jpg" width="100%"/>
     </td>
 </tr>
-</table>
+</table>  
 
 ## GAN
 - [Original Paper Link](https://arxiv.org/abs/1406.2661) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/GAN/gan.ipynb)
