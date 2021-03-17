@@ -60,7 +60,8 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
     </td>
 </tr>
 </table>
-## DCGAN
+
+## DCGAN  
 - [Original Paper Link](https://arxiv.org/abs/1511.06434) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/DCGAN/DCGAN.ipynb)
 
 ### result
