@@ -46,8 +46,22 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
 </tr>
 </table>
 
+## GAN
+- [Original Paper Link](https://arxiv.org/abs/1406.2661) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/GAN/gan.ipynb)
+
+### result 
+<table border="0">
+<tr>
+    <td>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/GAN/GAN/epoch1000.JPG" width="100%" />
+    </td>
+    <td>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/GAN/GAN/epoch2000.JPG", width="100%" />
+    </td>
+</tr>
+</table>
 ## DCGAN
-- [DCGAN](https://github.com/pwr4779/DeepLearning/blob/master/GAN/DCGAN/DCGAN.ipynb)
+- [Original Paper Link](https://arxiv.org/abs/1511.06434) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/DCGAN/DCGAN.ipynb)
 
 ### result
 <table border="0">
@@ -73,8 +87,10 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
 </table>
 
 ## Multi-Label Classification
+
 * `colab`
 * `TensorFlow >= 2.4.1`
+* [code](https://github.com/pwr4779/DeepLearning/blob/master/NoisyEMNISTClassification/Resnet101_32x8d.py)
 * [Dataset](https://dacon.io/competitions/official/235697/data/)
 * private score : 0.84738 (46/811)
 * model : Resnet101_32x8d
