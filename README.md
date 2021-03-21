@@ -130,13 +130,13 @@ examples of an application to image tagging in which we demonstrate how this
 approach can generate descriptive tags which are not part of training labels.
 
 ### Architecture_diagram
-![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/Architecture_diagram.PNG)
+![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/Architecture_diagram.png)
 
 ### Generator Embedding
-![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/generator_embedding.JPG)
+![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/generator_embedding.jpg)
 
 ### Discriminator Ebedding
-![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/discriminator_embedding.JPG)
+![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/discriminator_embedding.jpg)
 
 - [Original Paper Link](https://arxiv.org/abs/1411.1784) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/CGAN.ipynb)
 
