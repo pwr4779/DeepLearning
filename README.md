@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning Model Implementation
 
 ## Envirment & Requirements
 
@@ -91,10 +91,20 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
 
 * `colab`
 * `TensorFlow >= 2.4.1`
-* [code](https://github.com/pwr4779/DeepLearning/blob/master/NoisyEMNISTClassification/Resnet101_32x8d.py)
 * [Dataset](https://dacon.io/competitions/official/235697/data/)
+* [EfficientNet-b3](https://github.com/pwr4779/DeepLearning/blob/master/NoisyEMNISTClassification/EfficientNet-b3.py)
+* [Resnet101_32x8d](https://github.com/pwr4779/DeepLearning/blob/master/NoisyEMNISTClassification/Resnet101_32x8d.py)
+* colab gpu ram : 16G
+|Model|Acc|
+|------|---|
+|EfficentNet-b0|0.78586|
+|EfficentNet-b2|0.8198|
+|EfficentNet-b3|0.828|
+|Resnet101_32x8d|0.84738|
+
 * private score : 0.84738 (46/811)
-* model : Resnet101_32x8d
+* best_model : Resnet101_32x8d
+* Resnet101 batch_size = 32
 * Auggumenation  
 ```python
 a_train = A.Compose([
