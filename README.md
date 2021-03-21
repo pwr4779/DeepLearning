@@ -120,31 +120,14 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
 ## CGAN
 - [Original Paper Link](https://arxiv.org/abs/1511.06434) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/CGAN.ipynb)
 
-### result 
-<table border="0">
-<tr>
-    <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_15999.JPG" width="100%" />
-    </td>
-    <br>
-    <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_16999.JPG", width="100%" />
-    </td>
-    <br>
-    <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_17999.JPG", width="100%" />
-    </td>
-    <br>
-    <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_18999.JPG", width="100%" />
-    </td>
-    <br>
-    <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_19999.JPG", width="100%" />
-    </td>
-    <br>
-</tr>
-</table>
+### result
+| Epoch       |  predict |
+:-------------------------:|:-------------------------:
+15999  |  ![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_15999.png)
+16999  |  ![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_16999.png)
+17999  |  ![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_17999.png)
+18999  |  ![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_18999.png)
+19999  |  ![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/result/result_19999.png)
 
 ## Style Transfer - ResNet50
 - [Style Transfer](https://github.com/pwr4779/DeepLearning/blob/master/ResNet-StyleTransfer/ResNet-StyleTransfer.ipynb)
