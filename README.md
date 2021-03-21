@@ -117,8 +117,28 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
 </tr>
 </table>
 
-## CGAN
-- [Original Paper Link](https://arxiv.org/abs/1511.06434) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/CGAN.ipynb)
+## Conditional Generative Adversarial Network (CGAN)
+
+### Abstract  
+Generative Adversarial Nets were recently introduced as a novel way to train
+generative models. In this work we introduce the conditional version of generative
+adversarial nets, which can be constructed by simply feeding the data, y, we wish
+to condition on to both the generator and discriminator. We show that this model
+can generate MNIST digits conditioned on class labels. We also illustrate how
+this model could be used to learn a multi-modal model, and provide preliminary
+examples of an application to image tagging in which we demonstrate how this
+approach can generate descriptive tags which are not part of training labels.
+
+### Architecture_diagram
+![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/Architecture_diagram.PNG)
+
+### Generator Embedding
+![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/generator_embedding.JPG)
+
+### Discriminator Ebedding
+![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/discriminator_embedding.JPG)
+
+- [Original Paper Link](https://arxiv.org/abs/1411.1784) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/CGAN.ipynb)
 
 ### result
 | Epoch       |  predict |
