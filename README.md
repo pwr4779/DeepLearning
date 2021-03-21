@@ -5,7 +5,7 @@
 * `Rtx 3070`
 * `TensorFlow >= 2.4.1`
 
-## Multi-Label Classification
+## Multi-Label Classification For Noising MNIST
 
 * `colab`
 * `TensorFlow >= 2.4.1`
@@ -50,7 +50,7 @@ a_train = A.Compose([
 * TTA is not used since accuracy is downed after TTA implementation
 
 ## Variational AutoEncoder
-- [Variational AutoEncoder](https://github.com/pwr4779/DeepLearning/blob/master/VAE/variationalAutoencoder.py)  
+- [Variational AutoEncoder code](https://github.com/pwr4779/DeepLearning/blob/master/VAE/variationalAutoencoder.py)  
 tensorflow implementation of Variational AutoEncoder from the [paper](https://arxiv.org/pdf/1606.05908.pdf).
 
 ### result
@@ -119,6 +119,7 @@ tensorflow implementation of Variational AutoEncoder from the [paper](https://ar
 
 ## Conditional Generative Adversarial Network (CGAN)
 
+- [Original Paper Link](https://arxiv.org/abs/1411.1784) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/CGAN.ipynb)
 ### Abstract  
 Generative Adversarial Nets were recently introduced as a novel way to train
 generative models. In this work we introduce the conditional version of generative
@@ -137,8 +138,6 @@ approach can generate descriptive tags which are not part of training labels.
 
 ### Discriminator Ebedding
 ![](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/discriminator_embedding.jpg)
-
-- [Original Paper Link](https://arxiv.org/abs/1411.1784) / [code](https://github.com/pwr4779/DeepLearning/blob/master/GAN/CGAN/CGAN.ipynb)
 
 ### result
 | Epoch       |  predict |
