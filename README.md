@@ -157,7 +157,7 @@ approach can generate descriptive tags which are not part of training labels.
     <img src="https://github.com/pwr4779/DeepLearning/blob/master/ResNet-StyleTransfer/paris.jpg" width="100%" />
     </td>
     <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/ResNet-StyleTransfer/content.jpg", width="100%" />
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/ResNet-StyleTransfer/contents.jpg", width="100%" />
     </td>
 </tr>
 </table>
