@@ -154,13 +154,20 @@ approach can generate descriptive tags which are not part of training labels.
 <table border="0">
 <tr>
     <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/ResNet-StyleTransfer/cat.jpg" width="100%" />
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/ResNet-StyleTransfer/paris.jpg" width="100%" />
     </td>
+    <td>
+    <img src="https://github.com/pwr4779/DeepLearning/blob/master/ResNet-StyleTransfer/content.jpg", width="100%" />
+    </td>
+</tr>
+</table>
+
+<table border="0">
+<tr>
     <td>
     <img src="https://github.com/pwr4779/DeepLearning/blob/master/ResNet-StyleTransfer/stylized-image.png", width="100%" />
     </td>
 </tr>
 </table>
-
 ## tf.GradientTape(), Tensorboard manual MNIST
 - [GradientTape](https://github.com/pwr4779/DeepLearning/blob/master/Tensorflow%20Advanced%20Tutorials/MNIST.ipynb)
